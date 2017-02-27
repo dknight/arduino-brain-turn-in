@@ -5,6 +5,8 @@ Simple Arduino math game. Main goal of game to guess is the math expression is c
 ## Schematics
 ![Brain Turn In schematics](https://raw.githubusercontent.com/dknight/arduino-brain-turn-in/master/arduino-brain-turn-in/arduino-brain-turn-in_bb.png)
 
+## Video demo
+[https://www.youtube.com/watch?v=H8FJEvF8BYM](https://www.youtube.com/watch?v=H8FJEvF8BYM)
 
 ## The MIT License
 
