@@ -3,7 +3,7 @@
 Simple Arduino math game. Main goal of game to guess is the math expression is correct or not.
 
 ## Schematics
-![Brain Turn In schematics](https://raw.githubusercontent.com/dknight/arduino-brain-turn-in/arduino-brain-turn-in/arduino-brain-turn-in_bb.png)
+![Brain Turn In schematics](https://raw.githubusercontent.com/dknight/arduino-brain-turn-in/master/arduino-brain-turn-in/arduino-brain-turn-in_bb.png)
 
 
 ## The MIT License

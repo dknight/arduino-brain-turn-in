@@ -62,8 +62,7 @@ void setup() {
   //Serial.begin(9600);
   
   // Init random
-  // randomRead makes noise???
-  randomSeed(millis());
+  randomSeed(analogRead(0));
   
   // Setup pins
   pinMode(CORRECT_BUTTON_PIN, INPUT);
